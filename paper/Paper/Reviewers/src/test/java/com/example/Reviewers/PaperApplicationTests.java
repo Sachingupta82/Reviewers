@@ -8,6 +8,7 @@ class ReviewerApplicationTests {
 
     @Test
     void contextLoads() {
+        return null
     }
 
 }
